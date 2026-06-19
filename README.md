@@ -54,6 +54,7 @@ Se estructuraron los payloads JSON requeridos por la API de Redmine, diferencian
     ]
   }
 }
+```
 ### 2. Conectividad Externa Validada
 * Configuración exitosa del módulo de escucha activa (*Watch Database Items*) en Notion mediante Webhooks de Make.
 * Control de duplicados mediante filtros de estado (procesar únicamente registros sin `Nº Issue Redmine` asignado).
